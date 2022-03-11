@@ -1,5 +1,5 @@
 .encabezado {
-  font-family: 'Brown Regular', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 28px;
   line-height: 24px;
   vertical-align: baseline;
@@ -11,7 +11,7 @@
   color: rgb(29, 29, 27);  
   background-color: #000000;
   background-color: rgba(0, 0, 0, 0);
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
   font-variant: normal;
   text-transform: uppercase;
@@ -21,8 +21,9 @@
 }
 
 .encabezado2 {
-  font-family: 'Brown Regular', sans-serif;
+  font-family: 'Roboto', sans-serif;  
   font-size: 16px;
+  font-weight: 500;
   line-height: 36px;
   vertical-align: baseline;
   letter-spacing: 1px;
@@ -56,4 +57,15 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+  }
+
+.texto1 {
+  font-family:'europa', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  word-spacing: 0px;
+  margin: 0px;
+  padding: 0px;
   }
